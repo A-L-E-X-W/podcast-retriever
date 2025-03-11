@@ -1,0 +1,7 @@
+requests
+pandas
+feedparser
+tqdm
+python-dotenv
+schedule
+openpyxl
